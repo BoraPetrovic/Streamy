@@ -16,7 +16,7 @@ In the app I have used:
   - form (for redux input)
 * Lodash (for filtering)
 * Semantic ui (custom css)
-* Google Oauth (authorisation of userId)
+* Google Oauth (authorization of userId)
 * JSON server
 * RTMP server
 
