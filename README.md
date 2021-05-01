@@ -1,6 +1,24 @@
-# Live App On 
+# Live App On... but!
 
 https://BoraPetrovic.github.io/Streamy/
+
+You need to use a JSON server to get the fullest from the app. Because at this moment you can use DELETE and EDIT controls because the changes are persistent in mock JSON-server.
+
+Just change baseURL in apis folder in localhost:3001 and in VS code start the client with npm start, then in second terminal api and in third rtmpserver
+
+# Components
+
+In the app I have used:
+* React:
+  - axios (as a rest creator)
+  - redux (state creator)
+  - thunk (middelware for async calls)
+  - form (for redux input)
+* Lodash (for filtering)
+* Semantic ui (custom css)
+* Google Oauth (authorisation of userId)
+* JSON server
+* RTMP server
 
 # Getting Started with Create React App
 
