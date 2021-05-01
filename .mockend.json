@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "Here is some stream",
+      "id": 2
+    },
+    {
+      "title": "Helll",
+      "description": "Yeaaa!",
+      "id": 6
+    },
+    {
+      "title": "Novi Stream",
+      "description": "Radi za sada",
+      "userId": "114763010975662012353",
+      "id": 7
+    }
+  ]
+}
